@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Amazon Orders Web Application](https://github.com/kietthely/AOWeb)
 
-- 🌱 I’m currently learning **Concurrent programming, React.js and Vue.js**
+- 🌱 I’m currently learning **Concurrent programming, ITIL, React.js and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://kietthely.github.io/my_portfolio/](https://kietthely.github.io/my_portfolio/)
 

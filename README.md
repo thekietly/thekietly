@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ASP.NET and Java**
 
-- 📫 How to reach me **lythekiet333@gmail.com**
+- 📫 How to reach me **lyyty013@mymail.unisa.edu.au**
 
 - ⚡ Fun fact **I love attending IT exhibition**
 

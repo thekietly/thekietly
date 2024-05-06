@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Amazon Orders Web Application](https://github.com/kietthely/AOWeb)
 
-- 🌱 I’m currently learning **Concurrent programming, ITIL, React.js and Vue.js**
+- 🌱 I’m currently learning **Big data concepts and C++**
 
 - 👨‍💻 All of my projects are available at [https://kietthely.github.io/my_portfolio/](https://kietthely.github.io/my_portfolio/)
 
-- 💬 Ask me about **ASP.NET and Java**
+- 💬 Ask me about **ASP.NET, Java and React**
 
 - 📫 How to reach me **lyyty013@mymail.unisa.edu.au**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A passionate third-year web development student at the University of South Australia</h3>
+<h3 align="center">A passionate graduate web development student at the University of South Australia</h3>
 
-- 🔭 I’m currently working on [Amazon Orders Web Application](https://github.com/kietthely/AOWeb)
+- 🔭 I’m currently working on [Simon game][(https://github.com/kietthely/Simon-game)
 
-- 🌱 I’m currently learning **Big data concepts and C++**
+- 🌱 I’m currently reviewing Front-end technologies (React, jQuery, HTML, CSS and javascript)
 
 - 👨‍💻 All of my projects are available at [https://kietthely.github.io/my_portfolio/](https://kietthely.github.io/my_portfolio/)
 

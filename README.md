@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate graduate web development student at the University of South Australia</h3>
 
-- 🔭 I’m currently working on [(https://github.com/kietthely/Simon-game)](https://github.com/kietthely/Simon-game)
+- 🔭 I’m currently working on https://github.com/kietthely/Simon-game
 
 - 🌱 I’m currently reviewing Front-end technologies (React, jQuery, HTML, CSS and javascript)
 

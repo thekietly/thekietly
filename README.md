@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kietthely.github.io/my_portfolio/](https://kietthely.github.io/my_portfolio/)  (I will update my portfolio later :) see my latest work on my hotel management website instead)
 
-- 💬 Ask me about **ASP.NET, Java and React**
+- 💬 Ask me about **ASP.NET and React**
 
 - 📫 How to reach me **lyyty013@mymail.unisa.edu.au**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sam-ly-61691a238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-ly-61691a238" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/the-kiet-ly-unisa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-ly-61691a238" height="30" width="40" /></a>
 <a href="https://fb.com/thekietly0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thekietly0310" height="30" width="40" /></a>
 </p>
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently reviewing Front-end technologies (React, jQuery, HTML, CSS and javascript)
 
-- 👨‍💻 All of my projects are available at [https://kietthely.github.io/my_portfolio/](https://kietthely.github.io/my_portfolio/)  (I will update my portfolio later :) see my latest work on my hotel management website instead)
+- 👨‍💻 All of my projects are available at https://thekietly.github.io/portfolio/
 
 - 💬 Ask me about **ASP.NET and React**
 
